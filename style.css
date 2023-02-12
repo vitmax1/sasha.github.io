@@ -13,8 +13,8 @@ a {
 	font-size: 2rem;
 	margin: auto;
 	margin-top: 2rem;
-	margin-bottom: 2rem;
-	width: 300px;
+	margin-bottom: 1.5rem;
+	width: 250px;
 	border-radius: 25px;
 	background-color: #FBD13B;
 	color: black;
@@ -24,5 +24,5 @@ a {
 }
 img {
 	max-width: 100%;
-	height: 100%;
+	height: auto;
 }
