@@ -18,6 +18,9 @@ header {
 padding-left: 1rem;
 	padding-right: 1rem;
 }
+.logo {
+margin-bottom: 2rem;
+}
 .logo img {
 max-width: 100%;
 }
