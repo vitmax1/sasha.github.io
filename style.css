@@ -13,7 +13,7 @@ body {
 
 header {
   text-align: center;
-  padding-top: 10rem;
+  padding-top: 4rem;
 }
 
 h2 {
@@ -237,9 +237,7 @@ main .item span.price {
   h2 {
     font-size: 1.5rem;
   }
-  header {
-	padding-top: 8rem;
-  }
+
  
   h1 {
     font-size: 3rem;
@@ -249,9 +247,7 @@ main .item span.price {
   h2 {
     font-size: 1.5rem;
   }
-   header {
-	padding-top: 6rem;
-  }
+   
 
   h1 {
     font-size: 2.5rem;
