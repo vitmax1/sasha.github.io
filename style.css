@@ -229,7 +229,7 @@ main .item span.price {
 }
 
 @media (max-width: 980px) {
-  h2 {
+header h2 {
     font-size: 2rem;
   }
 
@@ -242,7 +242,7 @@ main .item span.price {
 }
 
 @media (max-width: 768px) {
-  h2 {
+  header h2 {
     font-size: 1.5rem;
   }
 
@@ -252,7 +252,7 @@ main .item span.price {
   }
 }
 @media (max-width: 640px) {
-  h2 {
+ header h2 {
     font-size: 1.5rem;
   }
    
@@ -286,7 +286,7 @@ main .item span.price {
 }
 
 @media (max-width: 480px) {
-  h2 {
+  header h2 {
     font-size: 1.2rem;
   }
 
@@ -304,7 +304,7 @@ main .item span.price {
 }
 }
 @media (max-width: 360px) {
-  h2 {
+  header h2 {
     font-size: 1.2rem;
   }
 
