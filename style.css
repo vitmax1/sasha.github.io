@@ -151,7 +151,7 @@ main .item span.desc {
 main .item span.price {
   font-size: 2.5rem;
   font-weight: 700;
-	padding-top: 5rem;
+	padding-top: 0.5rem;
 	padding-bottom: 1rem;
 }
 
